@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^13.8.1"
+  },
+  "dependencies": {
+    "neat-csv": "^5.2.0"
+  }
+}
