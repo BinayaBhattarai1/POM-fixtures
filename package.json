@@ -3,6 +3,8 @@
     "cypress": "^13.8.1"
   },
   "dependencies": {
-    "neat-csv": "^5.2.0"
+    "cypress-plugin-api": "^2.11.1",
+    "neat-csv": "^5.2.0",
+    "otplib": "^12.0.1"
   }
 }

@@ -5,5 +5,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
+    baseUrl:'http://172.31.1.20:9999/#/auth/login',
   },
 });
